@@ -18,8 +18,8 @@ post_date: 2017-08-19 03:24:38
 <!-- /wp:html --></div></section>
 <!-- /wp:uagb/section -->
 
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer {"height":50} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:paragraph {"className":"margin-centered"} -->
