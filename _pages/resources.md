@@ -20,86 +20,86 @@ post_date: 2017-08-23 20:56:46
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"f6da9cd9-f199-4ffd-b5fc-877cfec218bf","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-f6da9cd9-f199-4ffd-b5fc-877cfec218bf"><h3 class="uagb-heading-text"><a href="/category/lessons/">Creative Media Related Lessons</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"d292c256-8ee1-4133-b925-5eeb7acf477e","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-d292c256-8ee1-4133-b925-5eeb7acf477e"><h3 class="uagb-heading-text"><a href="/category/lessons/">Creative Media Related Lessons</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"f6427958-8b58-40c8-8cd6-292c04038e62","categories":"12","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"47354cfd-1493-4d44-b5af-0cf8c1f56dfd","categories":"12","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"77b06d13-ef55-4a33-88b6-947fa435548e","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-77b06d13-ef55-4a33-88b6-947fa435548e"><h3 class="uagb-heading-text"><a href="/category/assignments/">Creative Media Related Assignments</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"1f5c3a8d-9fec-4041-bf80-2f52b2655efa","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-1f5c3a8d-9fec-4041-bf80-2f52b2655efa"><h3 class="uagb-heading-text"><a href="/category/assignments/">Creative Media Related Assignments</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"81b7fda1-fc4f-4a1e-87e5-a0d6941e22f3","categories":"2","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"b7adcb81-0c26-459e-9201-7465f5b7ca85","categories":"2","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"d1dbfe8d-c013-429f-aef0-ea737590b335","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-d1dbfe8d-c013-429f-aef0-ea737590b335"><h3 class="uagb-heading-text"><a href="/category/exercise/">Creative Media Related Exercises</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"7439a1b8-e377-4798-89b4-b65f209ecc3c","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-7439a1b8-e377-4798-89b4-b65f209ecc3c"><h3 class="uagb-heading-text"><a href="/category/exercise/">Creative Media Related Exercises</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"d39d6f9a-a308-405e-8ea7-b2def0e559c0","categories":"7","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"5f043b39-e137-4246-af9f-e4678df99737","categories":"7","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"7559b832-f8a6-463a-91cd-12fe5c85aa1e","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-7559b832-f8a6-463a-91cd-12fe5c85aa1e"><h3 class="uagb-heading-text"><a href="/category/featured/">Featured Creative Media Related Links &amp; Resources</a> </h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"4d2355f8-1732-4168-9335-90e95039fad2","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-4d2355f8-1732-4168-9335-90e95039fad2"><h3 class="uagb-heading-text"><a href="/category/featured/">Featured Creative Media Related Links &amp; Resources</a> </h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"33223fe5-d221-4168-93e9-c596db64d1d5","categories":"8","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"7ac9f037-08fd-4a1f-afd8-60f18e173d25","categories":"8","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"304631f0-75a0-4907-9841-5c269c2f2c1f","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-304631f0-75a0-4907-9841-5c269c2f2c1f"><h3 class="uagb-heading-text"><a href="/category/books/">Creative Media Related Books</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"5b22d72f-49e1-4f13-86b7-f553c56b1fd2","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-5b22d72f-49e1-4f13-86b7-f553c56b1fd2"><h3 class="uagb-heading-text"><a href="/category/books/">Creative Media Related Books</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"816d444f-4599-4e95-bcb5-405f66332d02","categories":"4","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"24aa9247-dfc0-454f-b27f-2bd8e0fd6f27","categories":"4","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"dde96e5d-7488-4876-867b-6c19b4adb6ef","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-dde96e5d-7488-4876-867b-6c19b4adb6ef"><h3 class="uagb-heading-text"><a href="/category/people/">Creative Media Related People</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"ed9993f7-d53c-495a-8f7b-c60436eb287b","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-ed9993f7-d53c-495a-8f7b-c60436eb287b"><h3 class="uagb-heading-text"><a href="/category/people/">Creative Media Related People</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"b4dd31c6-f36d-4f1f-acde-309951372e64","categories":"16","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"bf1a3454-24bd-4837-82a3-ddf7cd592257","categories":"16","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"6243f9e8-0058-41a5-bdf3-fc2258d45988","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-6243f9e8-0058-41a5-bdf3-fc2258d45988"><h3 class="uagb-heading-text"><a href="/category/blogs/">Creative Media Related Blogs</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"de3ef644-78d9-4593-9a87-d1ce6362eff2","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-de3ef644-78d9-4593-9a87-d1ce6362eff2"><h3 class="uagb-heading-text"><a href="/category/blogs/">Creative Media Related Blogs</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"bf30a388-4d88-4f59-b557-e0b6616816b6","categories":"3","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"5e4ddbf2-5bd7-4660-92ab-a6e81fc34c2b","categories":"3","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"3c035e8c-8967-4705-ab6c-92d21bab75e0","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-3c035e8c-8967-4705-ab6c-92d21bab75e0"><h3 class="uagb-heading-text"><a href="/category/podcasts/">Creative Media Related Podcasts</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"73a21805-1662-445b-854e-cd2d15e74145","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-73a21805-1662-445b-854e-cd2d15e74145"><h3 class="uagb-heading-text"><a href="/category/podcasts/">Creative Media Related Podcasts</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"332d7264-ba5b-4966-8669-f9be9a9acc9f","categories":"17","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"a999c2d3-27f6-4ace-b47d-ee0187f0c232","categories":"17","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"a4aba468-5dae-44a5-8ac4-7a920911c9d6","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-a4aba468-5dae-44a5-8ac4-7a920911c9d6"><h3 class="uagb-heading-text"><a href="/category/newsletters/">Creative Media Related Newsletters</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"808a09f1-9017-40c2-871a-1c109cc2a686","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-808a09f1-9017-40c2-871a-1c109cc2a686"><h3 class="uagb-heading-text"><a href="/category/newsletters/">Creative Media Related Newsletters</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"08cd650f-b11d-437f-849c-d4ac2bece62e","categories":"13","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"55769ad1-88e9-41a3-aeb5-2f9b782b61d7","categories":"13","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"6699b566-2798-4762-ae7a-eb1d75c3ef8f","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-6699b566-2798-4762-ae7a-eb1d75c3ef8f"><h3 class="uagb-heading-text"><a href="/category/stock-photography/">Creative Media Related Stock Assets</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"8520abf8-d83a-4860-9c6c-3ab0961a6d16","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-8520abf8-d83a-4860-9c6c-3ab0961a6d16"><h3 class="uagb-heading-text"><a href="/category/stock-photography/">Creative Media Related Stock Assets</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"5e23b514-1006-4a4d-9e2a-0662b213e2e4","categories":"18","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"766655bf-4879-4de4-8ae7-d3da7ef172f0","categories":"18","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"b4e9ecab-3300-466d-b546-8cad03ca3e9d","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-b4e9ecab-3300-466d-b546-8cad03ca3e9d"><h3 class="uagb-heading-text"><a href="/category/front-end-tools/">Front-end Tools</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"2e25197a-fbb4-4952-96e7-b0fa7cb3b629","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-2e25197a-fbb4-4952-96e7-b0fa7cb3b629"><h3 class="uagb-heading-text"><a href="/category/front-end-tools/">Front-end Tools</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"75b0e1e2-c1de-4e62-8743-482f099e8532","categories":"9","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"2f9aa082-c62d-4686-9d66-f350245f3af1","categories":"9","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"9fdbff93-8ab8-4879-8859-fcdcf333d317","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-9fdbff93-8ab8-4879-8859-fcdcf333d317"><h3 class="uagb-heading-text"><a href="/category/inspiration/">Creative Media Related Inspiration</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"c8fc15a4-9411-48aa-9fca-fd94ced3bf0b","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-c8fc15a4-9411-48aa-9fca-fd94ced3bf0b"><h3 class="uagb-heading-text"><a href="/category/inspiration/">Creative Media Related Inspiration</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"95879596-94cf-4254-b131-a874ee93a7db","categories":"11","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"678b7b82-3ed5-4cc2-a289-b8d28a961384","categories":"11","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"444674f7-da35-4468-a385-9976bd8909eb","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-444674f7-da35-4468-a385-9976bd8909eb"><h3 class="uagb-heading-text"><a href="/category/educational/">Creative Media Related Educational Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"8fc934cd-9df8-4195-867c-be3c7b4cd32a","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-8fc934cd-9df8-4195-867c-be3c7b4cd32a"><h3 class="uagb-heading-text"><a href="/category/educational/">Creative Media Related Educational Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"3ada1059-4647-4e1a-b864-cb12bc729a67","categories":"5","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"b71b22c8-0d42-4eda-a31d-5a09c4be2100","categories":"5","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"11deca41-20af-43bd-b6e7-204d5b2e3ef8","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-11deca41-20af-43bd-b6e7-204d5b2e3ef8"><h3 class="uagb-heading-text"><a href="/category/other/">Other (yet-to-be-categorized) Links</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"0e6feeaf-690d-4053-920f-bc54f2218bec","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-0e6feeaf-690d-4053-920f-bc54f2218bec"><h3 class="uagb-heading-text"><a href="/category/other/">Other (yet-to-be-categorized) Links</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:shortcode -->
@@ -110,14 +110,14 @@ post_date: 2017-08-23 20:56:46
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"595b8a45-e5e8-4b85-a3aa-fc2a79fcf00a","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-595b8a45-e5e8-4b85-a3aa-fc2a79fcf00a"><h3 class="uagb-heading-text"><a href="https://www.creativemedia.space/tag/typography/">Typography Related Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"22fcdc0c-9891-4f1c-9c16-ac6123f266e5","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-22fcdc0c-9891-4f1c-9c16-ac6123f266e5"><h3 class="uagb-heading-text"><a href="https://www.creativemedia.space/tag/typography/">Typography Related Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"90677493-92e5-4b82-858c-63cd673462e7","categories":"29","taxonomyType":"post_tag","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"6179e78b-4d0a-43ea-9d9d-3fab76130025","categories":"29","taxonomyType":"post_tag","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"displayPostImage":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<!-- wp:uagb/advanced-heading {"block_id":"b4e8a605-8ef1-425d-a784-55a031840680","headingTag":"h3","level":3} -->
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-b4e8a605-8ef1-425d-a784-55a031840680"><h3 class="uagb-heading-text"><a href="https://www.creativemedia.space/tag/frontendwebdev/">Front-end Related Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"cf0c608c-de04-4b07-908e-b4adc7004281","headingTag":"h3","level":3} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-cf0c608c-de04-4b07-908e-b4adc7004281"><h3 class="uagb-heading-text"><a href="https://www.creativemedia.space/tag/frontendwebdev/">Front-end Related Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:uagb/post-grid {"block_id":"30f27520-8116-4243-9bc7-e080b664c23e","categories":"21","taxonomyType":"post_tag","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
+<!-- wp:uagb/post-grid {"block_id":"30291515-e8eb-4c8b-8d9a-2a7bfa35fbeb","categories":"21","taxonomyType":"post_tag","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"displayPostImage":false,"imgSize":"medium","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
