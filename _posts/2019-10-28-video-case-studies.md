@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://creativemedia.space/video-case-studies/
+  http://creativemedia.space/video-case-studies/
 published: true
 post_date: 2019-10-28 10:29:10
 ---
